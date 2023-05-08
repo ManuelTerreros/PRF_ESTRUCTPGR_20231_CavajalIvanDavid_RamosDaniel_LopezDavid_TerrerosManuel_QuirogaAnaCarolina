@@ -1,4 +1,4 @@
-# Cosas a tener en cuenta
+# --Cosas a tener en cuenta--
 Proyecto final de estructura de datos 2023-1 de:
 - Iván David Carvajal
 - David Esteban López
@@ -8,7 +8,7 @@ Proyecto final de estructura de datos 2023-1 de:
 
 ## Antes de empezar, vean este video:
 https://www.youtube.com/watch?v=lMQmTcBmq-U&ab_channel=TeachYourSelfCode
-Esto es por si no pueden volver el repo a un repo local o si on pueden hacer un commit, revisen sus tokens personales y que estén activas
+Esto es por si no pueden volver el repo a un repo local o si no pueden hacer un commit, revisen sus tokens personales y que estén activas
 - Vean también este video de Ricardo, por si las moscas: https://www.youtube.com/watch?v=zkfzIGJditA
 
 ### Deben tener ciertos factores en cuenta al momento de mergear(realizar cambios) al codigo base:
