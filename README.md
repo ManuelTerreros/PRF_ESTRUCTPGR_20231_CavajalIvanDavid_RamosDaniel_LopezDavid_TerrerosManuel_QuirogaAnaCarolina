@@ -9,6 +9,7 @@ Proyecto final de estructura de datos 2023-1 de:
 ## Antes de empezar, vean este video:
 https://www.youtube.com/watch?v=lMQmTcBmq-U&ab_channel=TeachYourSelfCode
 Esto es por si no pueden volver el repo a un repo local o si on pueden hacer un commit, revisen sus tokens personales y que estén activas
+- Vean también este video de Ricardo, por si las moscas: https://www.youtube.com/watch?v=zkfzIGJditA
 
 ### Deben tener ciertos factores en cuenta al momento de mergear(realizar cambios) al codigo base:
 - Por cada commit(cambios a realizar) realizado se deben hacer un único pull request(al momento de unir su nuevo codigo con el original, va a lanzar una petición, o sea el Pull request o PR )
