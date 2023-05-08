@@ -1,5 +1,10 @@
-# PRF_ESTRUCTPGR_20231_CavajalIvanDavid_RamosDaniel_LopezDavid_TerrerosManuel_QuirogaAnaCarolina
-Proyecto final de estructura de datos 2023-1
+# Cosas a tener en cuenta
+Proyecto final de estructura de datos 2023-1 de:
+- Iván David Carvajal
+- David Esteban López
+- Daniel Alejandro Ramos
+- Ana Carlonia Quiroga
+- Manuel Terreros
 
 ### Deben tener ciertos factores en cuenta al momento de mergear(realizar cambios) al codigo bsae:
 - Por cada commit(cambios a realizar) realizado se deben hacer un único pull request(al momento de unir su nuevo codigo con el original, va a lanzar una petición, o sea el Pull request o PR )
