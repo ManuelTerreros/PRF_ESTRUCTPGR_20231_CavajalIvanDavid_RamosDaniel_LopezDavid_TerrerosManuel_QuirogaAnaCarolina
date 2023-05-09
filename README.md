@@ -16,7 +16,8 @@ Esto es por si no pueden volver el repo a un repo local o si no pueden hacer un 
 Cabe resaltar que tendremos dos branches(ramas), la principal que será "main" y la secundaria, que será la "develop", la cual sufrirá todos los cambios, con esto trataremos de evitar de lo que funciona no se daña(main), y que todo lo que realicemos es estable y sirve.
 - https://www.youtube.com/watch?v=EnpGrVWs8hk&list=PLrb1e2Mp6N_tyX8GTl6J3r1b03QsrkU1c&ab_channel=I%C3%B1igoSerrano
 Esta playlist nos enseña como usar Gitflow para evitar tener problemas como el año pasado, que solo servía en el compu de Iván y demás
-- Los videos en la playlist que nos sirven son: 1, 2, 15, 16, 19, 20, 21, 22
+- Los videos en la playlist que sirven para entender lo básico: 1, 2, 15, 16, 19, 20, 21, 22, 27.
+- Ya para entrar a detalle en gitflow, el 39,40,41,42.
 
 ### Deben tener ciertos factores en cuenta al momento de mergear(realizar cambios) al codigo base:
 - Por cada commit(cambios a realizar) realizado se deben hacer un único pull request(al momento de unir su nuevo codigo con el original, va a lanzar una petición, o sea el Pull request o PR )
